@@ -26,8 +26,8 @@
 
 <br><br>
 
-Hola, soy Birunthaban Sarventhiran.
-Soy estudiante de segundo año de ingeniería de software en la Universidad de Kelaniya y también estoy cursando un diploma de estadística aplicada en IASSL.
+Hola, soy Roger Yonatan.
+Soy estudiante de la carrera Analisis de Sistemas en el Instituto Tecnologico Publico de las Fuerzas Armadas.
 
 ⚡ Dato curioso: creo en la teoría del caos: incluso en entornos impredecibles con rarezas e irregularidades aparentemente aleatorias se encuentra un patrón predecible y sensato que no se ve inicialmente.
 🔭Actualmente estoy estudiando:
@@ -36,9 +36,6 @@ Desarrollo de aplicaciones web
 💡 Me interesa todo lo relacionado con los datos: Big Data, Cloud, Machine Learning y Data Science
 💬 Háblame de Espacio, Filosofía, Ciencia, cualquier cosa que te interese.
 <br>
-
-
-## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/competitive_programming_profile.png?raw=true" width=40> </picture> My Competitive Programming Profiles
 
 <p align="center">
   <a href="https://codeforces.com/profile/7oSkaaa"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Code Forces"/></a>
