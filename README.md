@@ -26,14 +26,15 @@
 
 <br><br>
 
-- :school: I am a `Junior` at [Faculty of Computers & Informatics](http://suez.edu.eg/ar/%d9%83%d9%84%d9%8a%d8%a9-%d8%a7%d9%84%d8%ad%d8%a7%d8%b3%d8%a8%d8%a7%d8%aa-%d9%88%d8%a7%d9%84%d9%85%d8%b9%d9%84%d9%88%d9%85%d8%a7%d8%aa/) at [Suez Canal University](http://suez.edu.eg/ar/).
-- :trophy: 2x `ACPC` Finalist.
-- :technologist: I love using Software as a solution for every `Problem`.
-- :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
-- :student: I’m currently learning `Computer Science` and `Software Engineering`.
-- :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](http://lnkiy.in/Ahmed_Hossam_Resume).
-- :boom: You can visit [MY WEBSITE](https://cutt.ly/Ahmed_Hossam_Website).
+Hola, soy Birunthaban Sarventhiran.
+Soy estudiante de segundo año de ingeniería de software en la Universidad de Kelaniya y también estoy cursando un diploma de estadística aplicada en IASSL.
+
+⚡ Dato curioso: creo en la teoría del caos: incluso en entornos impredecibles con rarezas e irregularidades aparentemente aleatorias se encuentra un patrón predecible y sensato que no se ve inicialmente.
+🔭Actualmente estoy estudiando:
+Desarrollo de aplicaciones móviles
+Desarrollo de aplicaciones web
+💡 Me interesa todo lo relacionado con los datos: Big Data, Cloud, Machine Learning y Data Science
+💬 Háblame de Espacio, Filosofía, Ciencia, cualquier cosa que te interese.
 <br>
 
 
