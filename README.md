@@ -34,7 +34,7 @@ Soy estudiante de la carrera Analisis de Sistemas en el Instituto Tecnologico Pu
 Desarrollo de aplicaciones móviles
 Desarrollo de aplicaciones web
 💡 Me interesa todo lo relacionado con los datos: Big Data, Cloud, Machine Learning y Data Science
-💬 Háblame de Espacio, Filosofía, Ciencia, cualquier cosa que te interese.
+
 <br>
 
 
