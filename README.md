@@ -10,20 +10,25 @@
     <img src="https://komarev.com/ghpvc/?username=7oSkaaa&label=Vistas+de+Perfil&color=0047AB&style=plastic?" alt="7oSkaaa" height=25px, width=160px/> 
 </p>
 
+<p align="center">
+  <a href="https://github.com/7oSkaaa/7oSkaaa/blob/main/CV_Roger_Ayque.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/DESCARGAR_MI_CV-CLIC_AQUÍ-2ea44f?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Descargar CV" />
+  </a>
+</p>
     
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Sobre mí
+## Sobre mí
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 <br><br>
 
-¡Hola! Soy Roger Yonatan Ayque Yareta.
+Hola, soy Roger Yonatan Ayque Yareta.
 
-Soy analista de datos junior y egresado técnico de la carrera de Análisis de Sistemas del IESTPFFAA. Mi enfoque profesional se centra en transformar datos en soluciones útiles mediante el diseño de bases de datos y la visualización.
+Soy analista de datos junior y egresado técnico de la carrera de Análisis de Sistemas del IESTPFFAA. Mi enfoque profesional se centra en transformar datos en soluciones útiles mediante el diseño de bases de datos, procesos ETL y visualización efectiva.
 
-Cuento con una formación técnica respaldada por Oracle Next Education y experiencia académica desarrollando proyectos. Me caracterizo por el aprendizaje continuo, la resolución de problemas y la adaptabilidad.
+Cuento con una formación técnica respaldada por Oracle Next Education y experiencia académica desarrollando soluciones de Inteligencia de Negocios (BI). Me caracterizo por el aprendizaje continuo y la capacidad de resolver problemas de negocio mediante la tecnología.
 
-🎯 Mis competencias principales:
+Mis competencias principales:
 
 * Análisis de Datos: SQL Intermedio, Power BI, ETL (SSIS), Modelado de datos (SSAS) y Reporting (SSRS).
 * Ciencia de Datos: Python Intermedio (Certificado por Cisco & OpenEDG).
@@ -31,7 +36,7 @@ Cuento con una formación técnica respaldada por Oracle Next Education y experi
 
 <br>
 
-## 🎓 Certificaciones y Formación (Oracle Next Education)
+## Certificaciones y Formación (Oracle Next Education)
 
 He completado rutas de aprendizaje especializadas avaladas por Oracle y Alura Latam.
 <br>
@@ -44,16 +49,41 @@ He completado rutas de aprendizaje especializadas avaladas por Oracle y Alura La
 
 <br>
 
-## 🚀 Proyecto Destacado: Business Intelligence
+## Portafolio de Proyectos
 
-* Sistema Web y Análisis para Barbería
-    * Objetivo: Desarrollo de una solución integral para la gestión de reservas y análisis de negocio.
-    * Ingeniería de Datos: Diseño de base de datos en SQL Server, implementación de procesos ETL y procedimientos almacenados.
-    * Visualización: Diseño de dashboards en Power BI para facilitar la toma de decisiones basada en métricas clave.
+### 1. Sistema de Gestión Transaccional (Barber Shop)
+Desarrollo de una aplicación completa para la gestión operativa.
+
+* Tecnologías: C#, SQL Server, .NET Framework.
+* Logros:
+    * Diseño de base de datos relacional normalizada.
+    * Implementación de Stored Procedures para lógica de negocio y validación de usuarios.
+    * Módulo de Mantenimiento (CRUD) y Facturación.
+
+<p align="left">
+  <a href="https://dai.ly/k6SRvissmA6rFdAXKxe" target="_blank">
+    <img src="https://img.shields.io/badge/VER_DEMO_APP-DAILYMOTION-0066DC?style=for-the-badge&logo=dailymotion&logoColor=white" alt="Ver Demo App" />
+  </a>
+</p>
+
+### 2. Solución de BI & Data Warehousing (Barber Studio)
+Proyecto avanzado de Inteligencia de Negocios para la toma de decisiones.
+
+* El Reto: Transformar los datos transaccionales en métricas analíticas.
+* Arquitectura Técnica:
+    * Ingeniería de Datos: Construcción de un Datamart (Esquema Estrella).
+    * OLAP: Implementación de Cubos Multidimensionales en SSAS (Analysis Services) con jerarquías.
+    * Visualización: Dashboards en Power BI conectados al Data Warehouse.
+
+<p align="left">
+  <a href="https://www.youtube.com/watch?v=qCWuv_x3aFI" target="_blank">
+    <img src="https://img.shields.io/badge/VER_EXPLICACIÓN_TÉCNICA-YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Ver Video BI" />
+  </a>
+</p>
 
 <br>
 
-## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Contáctame
+## Contáctame
 <p align="center">
     <a href="mailto:ayqueyonatan@gmail.com"><img img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
     <a href="https://github.com/rvztini"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
@@ -61,9 +91,9 @@ He completado rutas de aprendizaje especializadas avaladas por Oracle y Alura La
     <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
-## 🛠️ Stack Tecnológico (Data & Tools)
+## Stack Tecnológico (Data & Tools)
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Análisis, Base de Datos y Cloud
+### Análisis, Base de Datos y Cloud
 
 <p align="center"> 
   &emsp;
@@ -88,7 +118,7 @@ He completado rutas de aprendizaje especializadas avaladas por Oracle y Alura La
   </a>
 </p>
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Desarrollo Complementario
+### Desarrollo Complementario
 <p align="center"> 
   &emsp;
   <a href="#" target="_blank">
@@ -104,6 +134,6 @@ He completado rutas de aprendizaje especializadas avaladas por Oracle y Alura La
    </a>
 </p>
 
-<br> 
 
----
+
+
