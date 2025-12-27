@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/7oSkaaa/7oSkaaa/blob/main/CV_Roger_Ayque.pdf" target="_blank">
+  <a href="https://github.com/7oSkaaa/7oSkaaa/blob/main/CV_Ayque.pdf" target="_blank">
     <img src="https://img.shields.io/badge/DESCARGAR_MI_CV-CLIC_AQUÍ-2ea44f?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Descargar CV" />
   </a>
 </p>
