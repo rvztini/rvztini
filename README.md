@@ -9,18 +9,9 @@
 <p align="center"> 
     <img src="https://komarev.com/ghpvc/?username=7oSkaaa&label=Vistas+de+Perfil&color=0047AB&style=plastic?" alt="7oSkaaa" height=25px, width=160px/> 
 </p>
-
-<p align="center">
-  <a href="https://github.com/7oSkaaa/7oSkaaa/blob/main/CV_Ayque.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/DESCARGAR_MI_CV-CLIC_AQUÍ-2ea44f?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Descargar CV" />
-  </a>
-</p>
     
 ## Sobre mí
-
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
-
-<br><br>
 
 Hola, soy Roger Yonatan Ayque Yareta.
 
