@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23007ACC&size=25&center=true&vCenter=true&width=700&height=100&lines=Practicante+de+Sistemas+%2F+TI;Egresado+en+An%C3%A1lisis+de+Sistemas;SQL+%7C+Power+BI+%7C+Bases+de+Datos;Proyectos+Acad%C3%A9micos+y+Pr%C3%A1cticas">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23007ACC&size=25&center=true&vCenter=true&width=700&height=100&lines=Practicante+de+Sistemas+%2F+TI;Egresado+en+An%C3%A1lisis+de+Sistemas;Soporte+TI+%7C+SQL+%7C+Bases+de+Datos;Proyectos+Acad%C3%A9micos+y+Pr%C3%A1cticas">
   </a>
 </p>
 
@@ -19,8 +19,8 @@
 
 Soy Roger Yonatan Ayque Yareta, egresado técnico en Análisis de Sistemas.
 
-Me encuentro orientado a prácticas profesionales en el área de TI y Sistemas, con conocimientos en bases de datos, análisis de datos y Business Intelligence.  
-He desarrollado proyectos académicos aplicando SQL Server, Power BI, procesos ETL y Python para el análisis y visualización de información.
+Me encuentro orientado a prácticas profesionales en el área de TI y Sistemas, con conocimientos en soporte TI, sistemas de información y bases de datos.  
+He desarrollado proyectos académicos aplicando SQL Server, Power BI y programación (C# / Java) para la gestión y análisis de información.
 
 Me caracterizo por el aprendizaje continuo, la responsabilidad y la adaptación a entornos tecnológicos.
 
@@ -28,20 +28,21 @@ Me caracterizo por el aprendizaje continuo, la responsabilidad y la adaptación 
 
 ## Áreas de conocimiento
 
-- Sistemas de Información  
-- Bases de Datos Relacionales  
-- Análisis de Datos  
-- Business Intelligence (BI)
+- Soporte TI y herramientas informáticas
+- Sistemas de Información
+- Bases de Datos Relacionales
+- Análisis de Información
 
 ---
 
 ## Herramientas y tecnologías
 
 - SQL Server (consultas, procedimientos almacenados, modelado)
-- Power BI (dashboards, DAX básico)
-- ETL con SSIS
-- Python (análisis básico de datos)
+- MySQL (consultas)
+- Power BI (dashboards y reportes)
 - Microsoft Excel (intermedio / avanzado)
+- Windows (uso y configuración básica)
+- Redes básicas
 - Git y GitHub
 
 ---
@@ -55,7 +56,7 @@ He completado rutas formativas avaladas por Oracle y Alura Latam:
 - Python para Data Science  
 - Java y fundamentos de backend  
 
- Certificados:  
+Certificados:  
 https://app.aluracursos.com/user/ayqueyonatan/fullCertificate/4b4337adaeba4a409b0190c54d243a28
 
 ---
@@ -71,24 +72,23 @@ Descripción:
 - Implementación de CRUD y lógica de negocio
 - Módulo de facturación y usuarios
 
-🔗 Demo: https://dai.ly/k6SRvissmA6rFdAXKxe
+Demo: https://dai.ly/k6SRvissmA6rFdAXKxe
 
 ---
 
-### Solución de BI & Data Warehousing – Barber Studio
-Proyecto académico de **Business Intelligence**.
+### Solución de Reportes y Análisis – Barber Studio
+Proyecto académico orientado a reportes y análisis para apoyar la toma de decisiones.
 
-Tecnologías: SQL Server, SSIS, SSAS, Power BI  
+Tecnologías: SQL Server, Power BI  
 Descripción:
-- Construcción de Data Mart (esquema estrella)
-- Procesos ETL
-- Dashboards analíticos para toma de decisiones
+- Modelado y organización de datos para reportes
+- Elaboración de dashboards en Power BI
 
-🔗 Explicación técnica: https://www.youtube.com/watch?v=qCWuv_x3aFI
+Explicación técnica: https://www.youtube.com/watch?v=qCWuv_x3aFI
 
 ---
 
-##  Contacto
+## Contacto
 
 <p align="center">
   <a href="mailto:ayqueyonatan@gmail.com">
@@ -107,21 +107,15 @@ Descripción:
 
 ---
 
-##  Stack tecnológico
+## Stack tecnológico
 
-### Datos y Bases de Datos
 <p align="center">
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=plastic&logo=microsoft-sql-server&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=plastic&logo=powerbi&logoColor=black"/>
   <img src="https://img.shields.io/badge/MySQL-005C84?style=plastic&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white"/>
-</p>
-
-### Complementario
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=plastic&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=plastic&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-E44C30?style=plastic&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=openjdk&logoColor=white"/>
 </p>
-
-
 
