@@ -1,130 +1,127 @@
-<h1 align="center">Hola, Soy Roger Yonatan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hola, soy Roger Yonatan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Data+Analyst+Junior;SQL+Intermedio+%2B+Power+BI;ETL+%26+Modelado+de+Datos;Python+Intermedio;Egresado+An%C3%A1lisis+de+Sistemas"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23007ACC&size=25&center=true&vCenter=true&width=700&height=100&lines=Practicante+de+Sistemas+%2F+TI;Egresado+en+An%C3%A1lisis+de+Sistemas;SQL+%7C+Power+BI+%7C+Bases+de+Datos;Proyectos+Acad%C3%A9micos+y+Pr%C3%A1cticas">
+  </a>
 </p>
-
-<br>
 
 <p align="center"> 
-    <img src="https://komarev.com/ghpvc/?username=7oSkaaa&label=Vistas+de+Perfil&color=0047AB&style=plastic?" alt="7oSkaaa" height=25px, width=160px/> 
+  <img src="https://komarev.com/ghpvc/?username=ayqueyonatan&label=Vistas+de+Perfil&color=0047AB&style=plastic" alt="ayqueyonatan"/>
 </p>
-    
+
+---
+
 ## Sobre mí
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+<picture>
+  <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="230px">
+</picture>
 
-Hola, soy Roger Yonatan Ayque Yareta.
+Soy Roger Yonatan Ayque Yareta, egresado técnico en Análisis de Sistemas.
 
-Soy analista de datos junior y egresado técnico de la carrera de Análisis de Sistemas del IESTPFFAA. Mi enfoque profesional se centra en transformar datos en soluciones útiles mediante el diseño de bases de datos, procesos ETL y visualización efectiva.
+Me encuentro orientado a prácticas profesionales en el área de TI y Sistemas, con conocimientos en bases de datos, análisis de datos y Business Intelligence.  
+He desarrollado proyectos académicos aplicando SQL Server, Power BI, procesos ETL y Python para el análisis y visualización de información.
 
-Cuento con una formación técnica respaldada por Oracle Next Education y experiencia académica desarrollando soluciones de Inteligencia de Negocios (BI). Me caracterizo por el aprendizaje continuo y la capacidad de resolver problemas de negocio mediante la tecnología.
+Me caracterizo por el aprendizaje continuo, la responsabilidad y la adaptación a entornos tecnológicos.
 
-Mis competencias principales:
+---
 
-* Análisis de Datos: SQL Intermedio, Power BI, ETL (SSIS), Modelado de datos (SSAS) y Reporting (SSRS).
-* Ciencia de Datos: Python Intermedio (Certificado por Cisco & OpenEDG).
-* Desarrollo: Lógica de programación (Java/C#) que complementa mi capacidad de análisis.
+## Áreas de conocimiento
 
-<br>
+- Sistemas de Información  
+- Bases de Datos Relacionales  
+- Análisis de Datos  
+- Business Intelligence (BI)
 
-## Certificaciones y Formación (Oracle Next Education)
+---
 
-He completado rutas de aprendizaje especializadas avaladas por Oracle y Alura Latam.
-<br>
-[Ver Certificados](https://app.aluracursos.com/user/ayqueyonatan/fullCertificate/4b4337adaeba4a409b0190c54d243a28)
+## Herramientas y tecnologías
 
-* SQL con MySQL Server (80h): Manipulación de datos (DML), procedimientos almacenados y optimización.
-* Oracle Cloud Infrastructure (OCI): Bases de datos e infraestructura como código.
-* Python para Data Science: Manejo de estructuras de datos y funciones para análisis.
-* Java & Spring Boot: Desarrollo backend y creación de APIs.
+- SQL Server (consultas, procedimientos almacenados, modelado)
+- Power BI (dashboards, DAX básico)
+- ETL con SSIS
+- Python (análisis básico de datos)
+- Microsoft Excel (intermedio / avanzado)
+- Git y GitHub
 
-<br>
+---
 
-## Portafolio de Proyectos
+## Certificaciones y formación (Oracle Next Education)
 
-### 1. Sistema de Gestión Transaccional (Barber Shop)
-Desarrollo de una aplicación completa para la gestión operativa.
+He completado rutas formativas avaladas por Oracle y Alura Latam:
 
-* Tecnologías: C#, SQL Server, .NET Framework.
-* Logros:
-    * Diseño de base de datos relacional normalizada.
-    * Implementación de Stored Procedures para lógica de negocio y validación de usuarios.
-    * Módulo de Mantenimiento (CRUD) y Facturación.
+- SQL con MySQL  
+- Oracle Cloud Infrastructure (OCI)  
+- Python para Data Science  
+- Java y fundamentos de backend  
 
-<p align="left">
-  <a href="https://dai.ly/k6SRvissmA6rFdAXKxe" target="_blank">
-    <img src="https://img.shields.io/badge/VER_DEMO_APP-DAILYMOTION-0066DC?style=for-the-badge&logo=dailymotion&logoColor=white" alt="Ver Demo App" />
-  </a>
-</p>
+ Certificados:  
+https://app.aluracursos.com/user/ayqueyonatan/fullCertificate/4b4337adaeba4a409b0190c54d243a28
 
-### 2. Solución de BI & Data Warehousing (Barber Studio)
-Proyecto avanzado de Inteligencia de Negocios para la toma de decisiones.
+---
 
-* El Reto: Transformar los datos transaccionales en métricas analíticas.
-* Arquitectura Técnica:
-    * Ingeniería de Datos: Construcción de un Datamart (Esquema Estrella).
-    * OLAP: Implementación de Cubos Multidimensionales en SSAS (Analysis Services) con jerarquías.
-    * Visualización: Dashboards en Power BI conectados al Data Warehouse.
+## Proyectos académicos destacados
 
-<p align="left">
-  <a href="https://www.youtube.com/watch?v=qCWuv_x3aFI" target="_blank">
-    <img src="https://img.shields.io/badge/VER_EXPLICACIÓN_TÉCNICA-YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Ver Video BI" />
-  </a>
-</p>
+### Sistema de Gestión Transaccional – Barber Shop
+Proyecto académico enfocado en sistemas de información.
 
-<br>
+Tecnologías: C#, SQL Server, .NET  
+Descripción:
+- Diseño de base de datos relacional
+- Implementación de CRUD y lógica de negocio
+- Módulo de facturación y usuarios
 
-## Contáctame
+🔗 Demo: https://dai.ly/k6SRvissmA6rFdAXKxe
+
+---
+
+### Solución de BI & Data Warehousing – Barber Studio
+Proyecto académico de **Business Intelligence**.
+
+Tecnologías: SQL Server, SSIS, SSAS, Power BI  
+Descripción:
+- Construcción de Data Mart (esquema estrella)
+- Procesos ETL
+- Dashboards analíticos para toma de decisiones
+
+🔗 Explicación técnica: https://www.youtube.com/watch?v=qCWuv_x3aFI
+
+---
+
+##  Contacto
+
 <p align="center">
-    <a href="mailto:ayqueyonatan@gmail.com"><img img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-    <a href="https://github.com/rvztini"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-    <a href="https://wa.me/51961990200"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
-    <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-</p>
-
-## Stack Tecnológico (Data & Tools)
-
-### Análisis, Base de Datos y Cloud
-
-<p align="center"> 
-  &emsp;
-  <a href="#" target="_blank"> 
-    <img alt="Power BI" src="https://img.shields.io/badge/Power_BI-F2C811?style=plastic&logo=powerbi&logoColor=black">
+  <a href="mailto:ayqueyonatan@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  &emsp; 
-  <a href="#" target="_blank"> 
-    <img alt="SQL Server" src="https://img.shields.io/badge/SQL%20Server-CC2927?style=plastic&logo=microsoft-sql-server&logoColor=white">
-  </a> 
-  &emsp;
-  <a href="#" target="_blank"> 
-    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=plastic&logo=mysql&logoColor=white">
+  <a href="https://github.com/ayqueyonatan">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  &emsp;
-  <a href="#" target="_blank"> 
-    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white">
+  <a href="https://wa.me/51961990200">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
-  &emsp;
-  <a href="#" target="_blank">
-    <img alt="Oracle Cloud" src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=plastic&logo=oracle&logoColor=white">
+  <a href="https://www.linkedin.com/in/yonatan-ayque-1a0673333/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
-### Desarrollo Complementario
-<p align="center"> 
-  &emsp;
-  <a href="#" target="_blank">
-    <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=openjdk&logoColor=white">
-  </a> 
-  &emsp; 
-  <a href="#" target="_blank"> 
-   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white">
-  </a>    
-  &emsp;
-  <a href="#" target="_blank"> 
-      <img alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=plastic&logo=git&logoColor=white">
-   </a>
+---
+
+##  Stack tecnológico
+
+### Datos y Bases de Datos
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=plastic&logo=microsoft-sql-server&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=plastic&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=plastic&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white"/>
 </p>
 
+### Complementario
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-E44C30?style=plastic&logo=git&logoColor=white"/>
+</p>
 
 
 
