@@ -17,12 +17,10 @@
   <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="230px">
 </picture>
 
-Soy Roger Yonatan Ayque Yareta, egresado técnico en Análisis de Sistemas.
+Soy egresado técnico en Análisis de Sistemas con enfoque en análisis de datos y Business Intelligence.
+Tengo experiencia en SQL Server, Power BI y Excel, aplicados en la limpieza, modelado y visualización de datos para la toma de decisiones.
+He desarrollado proyectos orientados a la consolidación y análisis de información.
 
-Me encuentro orientado a prácticas profesionales en el área de TI y Sistemas, con conocimientos en soporte TI, sistemas de información y bases de datos.  
-He desarrollado proyectos académicos aplicando SQL Server, Power BI y programación (C# / Java) para la gestión y análisis de información.
-
-Me caracterizo por el aprendizaje continuo, la responsabilidad y la adaptación a entornos tecnológicos.
 
 ---
 
