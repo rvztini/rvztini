@@ -16,7 +16,7 @@
   <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="230px">
 </picture>
 
-Soy egresado técnico en Análisis de Sistemas (título en trámite), con enfoque en análisis de datos y Business Intelligence.
+Soy técnico profesional en Análisis de Sistemas, con enfoque en análisis de datos y Business Intelligence.
 
 Tengo experiencia en SQL Server, Power BI y Excel aplicados en la limpieza, validación y modelado de datos, así como en la construcción de dashboards e indicadores para la toma de decisiones.
 
